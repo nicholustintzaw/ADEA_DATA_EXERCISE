@@ -157,9 +157,9 @@ Modified by			:
 	replace region = "South" if statecode == "PR"
 	
 	* Final Codebook and Dataset 
-	iecodebook template using "$dta/sde1_2017_18_to_2021_22 codebook FINAL.xlsx", replace 
-	save "$dta/sde1_2017_18_to_2021_22_FINAL.dta", replace 
-	export delimited using "$dta/sde1_2017_18_to_2021_22_FINAL.csv", replace 
+	iecodebook template using "$out/sde1_2017_18_to_2021_22 codebook FINAL.xlsx", replace 
+	save "$out/sde1_2017_18_to_2021_22_FINAL.dta", replace 
+	export delimited using "$out/sde1_2017_18_to_2021_22_FINAL.csv", replace 
 	
 	clear
 	
@@ -197,9 +197,9 @@ a 5-year trend (2017-18 through 2021-22 academic years) of the aggregates of the
 	
 	
 	* Final Codebook and Dataset 
-	iecodebook template using "$dta/Test 2 enrollment by region per academic year codebook FINAL.xlsx", replace 
-	save "$dta/Test_2_enrollment_per_region_per_academicyear.dta", replace 
-	export delimited using "$dta/Test_2_enrollment_per_region_per_academicyear.csv", replace 
+	iecodebook template using "$out/Test 2 enrollment by region per academic year codebook FINAL.xlsx", replace 
+	save "$out/Test_2_enrollment_per_region_per_academicyear.dta", replace 
+	export delimited using "$out/Test_2_enrollment_per_region_per_academicyear.csv", replace 
 
 	
 	****************************************************************************

@@ -1,0 +1,991 @@
+school_id,school,name_long,founded_year,school_type,city,zip_code,state,statecode,region,division,country,academic_year,gender,enroll_num,enroll_share
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2017_18,female,32,50.8
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2021_22,female,48,57.8
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2017_18,male,31,49.2
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2020_21,female,36,57.1
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2018_19,male,28,44.4
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2017_18,oth,0,0
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2018_19,oth,0,0
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2021_22,oth,0,0
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2018_19,female,35,55.6
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2020_21,male,27,42.9
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2021_22,male,35,42.2
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2019_20,oth,0,0
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2020_21,oth,0,0
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2019_20,male,28,44.4
+2,University of Alabama,University of Alabama School of Dentistry at UAB,1948,Public,Birmingham,35233,Alabama,AL,South,East South Central,US,2019_20,female,35,55.6
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2019_20,oth,0,0
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2017_18,female,41,53.9
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2019_20,male,83,58.5
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2021_22,male,32,41
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2019_20,oth,0,0
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2020_21,oth,0,0
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2021_22,oth,0,0
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2018_19,oth,1,1.3
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2019_20,female,44,57.1
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2021_22,female,46,59
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2017_18,male,35,46.1
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2020_21,male,32,41
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2017_18,oth,0,0
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2020_21,female,74,51
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2018_19,female,49,34.3
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2018_19,male,42,55.3
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2019_20,female,59,41.5
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2018_19,female,33,43.4
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2017_18,oth,0,0
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2021_22,female,67,46.2
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2021_22,oth,0,0
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2017_18,male,85,59.9
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2017_18,female,57,40.1
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2020_21,oth,0,0
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2018_19,male,94,65.7
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2018_19,oth,0,0
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2020_21,female,46,59
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2021_22,male,78,53.8
+54,Arizona School of Dentistry & Oral Health,A.T. Still University Arizona School of Dentistry and Oral Health,2003,Private,Mesa,85206,Arizona,AZ,West,Mountain,US,2019_20,male,33,42.9
+100,Midwestern University - AZ,Midwestern University College of Dental Medicine- Arizona,2008,Private,Glendale,85308,Arizona,AZ,West,Mountain,US,2020_21,male,71,49
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2019_20,male,71,49
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2019_20,oth,0,0
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2021_22,female,75,52.1
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2018_19,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2021_22,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2017_18,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2019_20,oth,0,0
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2017_18,male,74,51.7
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2021_22,oth,0,0
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2021_22,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2020_21,male,39,43.3
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2019_20,male,60,58.8
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2017_18,oth,0,0
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2020_21,female,81,56.3
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2020_21,oth,0,0
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2017_18,female,72,49.7
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2017_18,male,73,50.3
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2021_22,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2021_22,female,50,56.8
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2019_20,male,36,40.9
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2019_20,female,52,59.1
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2018_19,male,41,46.6
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2017_18,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2019_20,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2019_20,male,39,44.3
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2018_19,male,39,43.8
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2017_18,male,37,41.1
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2017_18,female,53,58.9
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2018_19,female,74,51
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2021_22,female,74,49.3
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2021_22,male,58,57.4
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2017_18,oth,0,0
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2021_22,female,43,42.6
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2019_20,oth,0,0
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2020_21,male,73,50
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2020_21,male,36,40.9
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2019_20,female,74,51
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2020_21,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2019_20,female,49,55.7
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2020_21,male,36,51.4
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2020_21,oth,0,0
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2018_19,female,36,52.2
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2021_22,male,24,40
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2019_20,oth,0,0
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2018_19,male,71,49.3
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2018_19,male,33,47.8
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2020_21,female,73,50
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2017_18,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2018_19,female,50,56.2
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2021_22,male,76,50.7
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2017_18,male,38,43.2
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2021_22,male,37,53.6
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2020_21,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2018_19,oth,0,0
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2019_20,female,35,50
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2018_19,male,55,55
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2017_18,female,69,48.3
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2018_19,male,71,49
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2020_21,female,46,46
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2021_22,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2020_21,oth,0,0
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2018_19,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2018_19,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2020_21,female,52,59.1
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2018_19,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2017_18,female,50,56.8
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2021_22,female,32,46.4
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2018_19,female,45,45
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2017_18,female,37,53.6
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2018_19,female,73,50.7
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2019_20,female,77,53.5
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2018_19,female,47,53.4
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2017_18,female,45,44.1
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2019_20,oth,0,0
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2020_21,oth,0,0
+7,"University of California, Los Angeles",University of California at Los Angeles School of Dentistry,1964,Public,Los Angeles,90024,California,CA,West,Pacific,US,2021_22,male,38,43.2
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2019_20,male,67,46.5
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2019_20,male,35,50
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2019_20,female,42,41.2
+4,University of the Pacific,University of the Pacific Arthur A. Dugoni School of Dentistry,1896,Private,San Francisco,94103,California,CA,West,Pacific,US,2017_18,oth,0,0
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2017_18,male,57,55.9
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2021_22,oth,0,0
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2021_22,male,69,47.9
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2020_21,female,51,56.7
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2018_19,oth,0,0
+6,"University of California, San Francisco",University of California at San Francisco School of Dentistry,1881,Public,San Francisco,94143,California,CA,West,Pacific,US,2021_22,female,36,60
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2017_18,male,32,46.4
+10,Loma Linda University,Loma Linda University School of Dentistry,1953,Private,Loma Linda,92350,California,CA,West,Pacific,US,2020_21,male,54,54
+8,Herman Ostrow School of Dentistry of USC,Herman Ostrow School of Dentistry of USC,1897,Private,Los Angeles,90089,California,CA,West,Pacific,US,2020_21,male,63,43.8
+102,Western University of Health Sciences,Western University of Health Sciences College of Dental Medicine,2009,Private,Pomona,91766,California,CA,West,Pacific,US,2020_21,female,34,48.6
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2017_18,female,49,60.5
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2019_20,oth,0,0
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2019_20,male,36,45
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2021_22,male,30,37.5
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2021_22,oth,0,0
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2017_18,oth,1,1.2
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2018_19,oth,0,0
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2020_21,male,35,43.8
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2018_19,male,44,55
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2021_22,female,50,62.5
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2018_19,female,36,45
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2017_18,male,31,38.3
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2020_21,female,45,56.3
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2019_20,female,44,55
+11,University of Colorado,University of Colorado Denver School of Dental Medicine,1973,Public,Aurora,80045,Colorado,CO,West,Mountain,US,2020_21,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2020_21,female,23,47.9
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2019_20,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2021_22,female,27,51.9
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2018_19,female,24,50
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2020_21,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2021_22,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2021_22,male,25,48.1
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2019_20,female,27,50
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2019_20,male,27,50
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2017_18,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2018_19,male,24,50
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2017_18,female,24,50
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2018_19,oth,0,0
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2020_21,male,25,52.1
+12,University of Connecticut,University of Connecticut School of Dental Medicine,1968,Public,Farmington,06030,Connecticut,CT,Northeast,New England,US,2017_18,male,24,50
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2017_18,female,49,62
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2018_19,oth,0,0
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2019_20,female,43,57.3
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2018_19,female,50,68.5
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2019_20,oth,0,0
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2021_22,male,23,32.9
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2020_21,oth,0,0
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2017_18,male,30,38
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2018_19,male,23,31.5
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2021_22,oth,0,0
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2017_18,oth,0,0
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2020_21,male,31,44.9
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2020_21,female,38,55.1
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2021_22,female,47,67.09999999999999
+16,Howard University,Howard University College of Dentistry,1881,Private,Washington,20059,District of Columbia,DC,South,South Atlantic,US,2019_20,male,32,42.7
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2021_22,oth,1,1.1
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2020_21,male,48,45.7
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2021_22,male,31,33.3
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2020_21,oth,0,0
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2020_21,female,75,57.7
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2019_20,female,71,56.8
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2021_22,male,51,48.6
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2021_22,oth,0,0
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2020_21,male,32,34.4
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2020_21,female,57,54.3
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2021_22,female,78,60.5
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2017_18,male,40,43
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2020_21,female,61,65.59999999999999
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2019_20,male,47,44.8
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2019_20,male,40,43
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2020_21,male,55,42.3
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2017_18,female,68,54.4
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2017_18,female,44,41.9
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2021_22,male,51,39.5
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2021_22,female,54,51.4
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2017_18,female,53,57
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2018_19,male,53,50.5
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2020_21,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2017_18,oth,0,0
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2018_19,male,52,42.6
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2019_20,male,54,43.2
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2018_19,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2018_19,oth,0,0
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2019_20,female,53,57
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2017_18,oth,0,0
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2017_18,oth,0,0
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2018_19,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2018_19,female,52,49.5
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2021_22,female,61,65.59999999999999
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2018_19,female,70,57.4
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2018_19,male,34,36.6
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2019_20,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2019_20,female,58,55.2
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2017_18,male,57,45.6
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2019_20,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2021_22,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2019_20,oth,0,0
+20,Nova Southeastern University,Nova Southeastern University College of Dental Medicine,1997,Private,Fort Lauderdale,33314,Florida,FL,South,South Atlantic,US,2020_21,oth,0,0
+105,LECOM College of Dental Medicine,LECOM College of Dental Medicine,2012,Private,Bradenton,34211,Florida,FL,South,South Atlantic,US,2017_18,male,61,58.1
+18,University of Florida,University of Florida College of Dentistry,1971,Public,Gainesville,32610,Florida,FL,South,South Atlantic,US,2018_19,female,59,63.4
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2020_21,female,55,57.3
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2018_19,oth,0,0
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2019_20,oth,0,0
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2017_18,male,53,55.2
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2020_21,male,41,42.7
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2019_20,male,40,41.7
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2021_22,male,51,53.1
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2020_21,oth,0,0
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2021_22,female,45,46.9
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2018_19,female,49,51
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2017_18,oth,0,0
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2018_19,male,47,49
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2019_20,female,56,58.3
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2017_18,female,43,44.8
+22,Augusta University,The Dental College of Georgia at Augusta University,1969,Public,Augusta,30912,Georgia,GA,South,South Atlantic,US,2021_22,oth,0,0
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2021_22,female,41,48.8
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2019_20,male,44,54.3
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2019_20,female,37,45.7
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2020_21,female,50,61
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2021_22,male,43,51.2
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2017_18,female,37,45.7
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2017_18,oth,0,0
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2020_21,oth,0,0
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2020_21,male,32,39
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2017_18,male,44,54.3
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2019_20,oth,0,0
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2018_19,female,37,45.1
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2021_22,oth,0,0
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2018_19,male,45,54.9
+32,University of Iowa,University of Iowa College of Dentistry,1882,Public,Iowa City,52242,Iowa,IA,Midwest,West North Central,US,2018_19,oth,0,0
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2017_18,female,29,42
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2021_22,male,26,37.1
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2017_18,male,24,47.1
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2021_22,female,44,62.9
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2019_20,female,21,42
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2019_20,oth,0,0
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2018_19,female,23,46
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2017_18,female,27,52.9
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2021_22,oth,0,0
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2020_21,female,35,50
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2021_22,oth,0,0
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2019_20,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2020_21,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2018_19,oth,0,0
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2018_19,oth,0,0
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2017_18,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2019_20,female,83,61.5
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2020_21,male,23,46
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2017_18,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2018_19,male,68,51.9
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2019_20,male,35,50
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2018_19,oth,0,0
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2020_21,oth,0,0
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2020_21,female,27,54
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2019_20,female,35,50
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2017_18,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2019_20,male,52,38.5
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2018_19,female,63,48.1
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2020_21,female,91,65
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2021_22,female,92,65.7
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2020_21,male,35,50
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2021_22,male,48,34.3
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2018_19,female,38,54.3
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2019_20,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2017_18,male,69,53.1
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2019_20,male,29,58
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2017_18,male,40,58
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2021_22,male,21,42
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2018_19,male,27,54
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2021_22,oth,0,0
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2020_21,male,49,35
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2018_19,male,32,45.7
+101,Midwestern University - IL,Midwestern University College of Dental Medicine- Illinois,2011,Private,Downers Grove,60515,Illinois,IL,Midwest,East North Central,US,2017_18,female,61,46.9
+27,Southern Illinois University,Southern Illinois University School of Dental Medicine,1972,Public,Alton,62002,Illinois,IL,Midwest,East North Central,US,2021_22,female,29,58
+28,"University of Illinois, Chicago",University of Illinois at Chicago College of Dentistry,1891,Public,Chicago,60612,Illinois,IL,Midwest,East North Central,US,2020_21,oth,0,0
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2021_22,oth,0,0
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2021_22,female,64,62.1
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2018_19,oth,2,1.9
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2020_21,male,38,36.2
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2017_18,female,53,49.1
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2019_20,female,54,51.4
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2017_18,oth,0,0
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2020_21,oth,0,0
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2017_18,male,55,50.9
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2020_21,female,67,63.8
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2021_22,male,39,37.9
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2019_20,oth,0,0
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2019_20,male,51,48.6
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2018_19,male,44,41.5
+30,Indiana University,Indiana University School of Dentistry,1879,Public,Indianapolis,46202,Indiana,IN,Midwest,East North Central,US,2018_19,female,60,56.6
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2018_19,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2021_22,female,70,58.3
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2017_18,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2017_18,oth,0,0
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2018_19,male,27,41.5
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2019_20,male,29,44.6
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2018_19,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2019_20,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2018_19,male,61,50.8
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2020_21,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2017_18,female,58,48.3
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2021_22,oth,0,0
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2021_22,male,26,40
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2019_20,oth,0,0
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2021_22,female,39,60
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2021_22,male,50,41.7
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2018_19,female,38,58.5
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2019_20,female,36,55.4
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2021_22,oth,0,0
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2017_18,male,30,46.2
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2017_18,female,35,53.8
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2019_20,female,65,54.2
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2020_21,female,33,50.8
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2018_19,female,59,49.2
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2020_21,male,32,49.2
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2019_20,male,55,45.8
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2020_21,female,75,62
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2020_21,male,46,38
+33,University of Kentucky,University of Kentucky College of Dentistry,1962,Public,Lexington,40536,Kentucky,KY,South,East South Central,US,2020_21,oth,0,0
+34,University of Louisville,University of Louisville School of Dentistry,1887,Public,Louisville,40202,Kentucky,KY,South,East South Central,US,2017_18,male,62,51.7
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2017_18,female,30,46.2
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2017_18,oth,0,0
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2018_19,male,34,45.3
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2019_20,oth,0,0
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2019_20,male,30,39.5
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2019_20,female,46,60.5
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2020_21,oth,0,0
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2018_19,female,41,54.7
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2018_19,oth,0,0
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2020_21,male,43,56.6
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2020_21,female,33,43.4
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2021_22,female,47,62.7
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2021_22,oth,0,0
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2021_22,male,28,37.3
+36,LSU Health Sciences Center,LSU Health Sciences Center School of Dentistry,1968,Public,New Orleans,70119,Louisiana,LA,South,West South Central,US,2017_18,male,35,53.8
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2019_20,male,10,28.6
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2018_19,female,57,48.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2021_22,male,65,31.7
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2017_18,oth,0,0
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2018_19,female,113,55.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2020_21,male,75,35.7
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2017_18,female,60,51.3
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2019_20,male,64,54.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2018_19,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2017_18,female,17,48.6
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2019_20,female,25,71.40000000000001
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2017_18,oth,0,0
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2019_20,male,80,39.6
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2018_19,male,90,44.3
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2021_22,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2021_22,male,11,31.4
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2019_20,oth,0,0
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2020_21,oth,5,2.4
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2020_21,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2019_20,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2020_21,oth,1,2.8
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2018_19,male,60,51.3
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2020_21,female,130,61.9
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2021_22,female,139,67.8
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2020_21,female,60,51.3
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2021_22,oth,1,.5
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2017_18,male,18,51.4
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2020_21,male,14,38.9
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2017_18,male,98,48.3
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2021_22,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2018_19,male,19,52.8
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2017_18,male,57,48.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2017_18,female,105,51.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2017_18,oth,0,0
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2021_22,male,50,43.5
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2021_22,female,65,56.5
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2018_19,oth,0,0
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2018_19,oth,1,2.8
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2021_22,female,24,68.59999999999999
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2020_21,male,57,48.7
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2019_20,female,122,60.4
+42,Tufts University,Tufts University School of Dental Medicine,1868,Private,Boston,02111,Massachusetts,MA,Northeast,New England,US,2019_20,oth,0,0
+41,Boston University,Boston University Goldman School of Dental Medicine,1963,Private,Boston,02118,Massachusetts,MA,Northeast,New England,US,2019_20,female,53,45.3
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2018_19,female,16,44.4
+40,Harvard University,Harvard University School of Dental Medicine,1867,Private,Boston,02115,Massachusetts,MA,Northeast,New England,US,2020_21,female,21,58.3
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2017_18,male,63,48.5
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2021_22,male,54,41.9
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2017_18,oth,0,0
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2020_21,male,63,46.3
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2018_19,male,65,50
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2020_21,female,73,53.7
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2017_18,female,67,51.5
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2019_20,male,63,48.8
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2020_21,oth,0,0
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2019_20,female,66,51.2
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2021_22,female,75,58.1
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2019_20,oth,0,0
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2018_19,female,65,50
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2021_22,oth,0,0
+38,University of Maryland,University of Maryland School of Dentistry,1840,Public,Baltimore,21201,Maryland,MD,South,South Atlantic,US,2018_19,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2018_19,male,30,46.9
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2020_21,male,28,43.8
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2021_22,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2019_20,male,28,43.8
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2018_19,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2020_21,female,36,56.3
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2017_18,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2021_22,male,24,37.5
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2020_21,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2019_20,oth,0,0
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2017_18,female,31,48.4
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2018_19,female,34,53.1
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2017_18,male,33,51.6
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2019_20,female,36,56.3
+106,University of New England,University of New England College of Dental Medicine,2013,Private,Portland,04103,Maine,ME,Northeast,New England,US,2021_22,female,40,62.5
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2018_19,oth,0,0
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2018_19,female,73,50.7
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2021_22,oth,0,0
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2018_19,male,71,49.3
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2019_20,male,62,43.1
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2021_22,female,64,58.7
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2021_22,male,67,46.5
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2021_22,female,77,53.5
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2018_19,oth,0,0
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2018_19,female,54,49.5
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2017_18,male,73,50.7
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2017_18,male,52,47.7
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2020_21,female,86,59.7
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2019_20,oth,0,0
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2020_21,male,57,52.8
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2019_20,male,42,38.5
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2020_21,oth,0,0
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2017_18,oth,0,0
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2020_21,male,58,40.3
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2019_20,oth,0,0
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2020_21,oth,0,0
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2019_20,female,82,56.9
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2019_20,female,67,61.5
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2018_19,male,55,50.5
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2017_18,female,71,49.3
+44,University of Detroit Mercy,University of Detroit Mercy School of Dentistry,1932,Private,Detroit,48208,Michigan,MI,Midwest,East North Central,US,2021_22,oth,0,0
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2020_21,female,51,47.2
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2017_18,female,57,52.3
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2017_18,oth,0,0
+46,University of Michigan,University of Michigan School of Dentistry,1875,Public,Ann Arbor,48109,Michigan,MI,Midwest,East North Central,US,2021_22,male,45,41.3
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2020_21,female,45,42.9
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2017_18,female,43,39.1
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2018_19,oth,0,0
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2021_22,female,65,61.9
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2018_19,male,49,44.5
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2021_22,oth,0,0
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2019_20,male,56,51.4
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2017_18,oth,0,0
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2020_21,male,60,57.1
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2021_22,male,40,38.1
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2019_20,female,53,48.6
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2019_20,oth,0,0
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2017_18,male,67,60.9
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2018_19,female,61,55.5
+48,University of Minnesota,University of Minnesota School of Dentistry,1888,Public,Minneapolis,55455,Minnesota,MN,Midwest,West North Central,US,2020_21,oth,0,0
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2021_22,oth,0,0
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2017_18,female,19,45.2
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2020_21,oth,0,0
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2018_19,female,20,47.6
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2019_20,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2020_21,male,57,52.3
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2021_22,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2019_20,female,58,53.2
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2018_19,male,22,52.4
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2018_19,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2020_21,female,52,47.7
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2017_18,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2018_19,male,54,49.5
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2019_20,male,51,46.8
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2018_19,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2017_18,male,53,48.6
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2021_22,female,50,45.9
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2021_22,female,45,71.40000000000001
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2021_22,male,18,28.6
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2019_20,male,30,47.6
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2017_18,female,56,51.4
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2020_21,oth,0,0
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2020_21,female,28,43.8
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2021_22,male,59,54.1
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2019_20,oth,0,0
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2017_18,oth,0,0
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2019_20,female,33,52.4
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2017_18,male,23,54.8
+52,"University of Missouri, Kansas City",University of Missouri-Kansas City School of Dentistry,1881,Public,Kansas City,64108,Missouri,MO,Midwest,West North Central,US,2018_19,female,55,50.5
+107,Missouri School of Dentistry & Oral Health,Missouri School of Dentistry & Oral Health,2013,Private,Kirksville,63501,Missouri,MO,Midwest,West North Central,US,2020_21,male,36,56.3
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2018_19,male,21,52.5
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2017_18,male,16,40
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2019_20,male,20,50
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2019_20,oth,0,0
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2020_21,female,20,50
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2017_18,female,24,60
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2017_18,oth,0,0
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2018_19,female,19,47.5
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2021_22,male,19,47.5
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2018_19,oth,0,0
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2021_22,oth,0,0
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2019_20,female,20,50
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2021_22,female,21,52.5
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2020_21,male,20,50
+49,University of Mississippi,University of Mississippi School of Dentistry,1975,Public,Jackson,39216,Mississippi,MS,South,East South Central,US,2020_21,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2019_20,male,42,50.6
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2021_22,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2021_22,male,36,48
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2018_19,oth,0,0
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2021_22,male,23,42.6
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2018_19,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2020_21,oth,0,0
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2020_21,female,29,55.8
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2021_22,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2017_18,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2017_18,male,39,47.6
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2020_21,female,46,54.8
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2019_20,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2018_19,female,42,50
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2017_18,female,43,52.4
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2021_22,female,31,57.4
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2017_18,male,23,44.2
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2019_20,male,26,50
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2020_21,oth,0,0
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2020_21,male,38,45.2
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2020_21,male,23,44.2
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2021_22,female,39,52
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2019_20,female,41,49.4
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2017_18,female,29,55.8
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2018_19,male,23,44.2
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2019_20,female,26,50
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2017_18,oth,0,0
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2019_20,oth,0,0
+103,East Carolina University,East Carolina University School of Dental Medicine,2011,Public,Greenville,27834,North Carolina,NC,South,South Atlantic,US,2018_19,female,29,55.8
+70,University of North Carolina,University of North Carolina at Chapel Hill Adams School of Dentistry,1950,Public,Chapel Hill,27599,North Carolina,NC,South,South Atlantic,US,2018_19,male,42,50
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2018_19,female,24,47.1
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2021_22,female,30,54.5
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2020_21,male,66,56.9
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2018_19,female,45,38.8
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2018_19,male,71,61.2
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2019_20,oth,0,0
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2021_22,female,45,38.1
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2019_20,male,72,60.5
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2020_21,oth,0,0
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2017_18,oth,0,0
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2021_22,oth,0,0
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2021_22,oth,0,0
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2019_20,male,25,48.1
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2018_19,oth,0,0
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2019_20,oth,0,0
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2017_18,oth,0,0
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2021_22,male,73,61.9
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2018_19,male,27,52.9
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2017_18,female,33,64.7
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2020_21,female,30,56.6
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2020_21,oth,0,0
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2018_19,oth,0,0
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2017_18,male,57,66.3
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2019_20,female,47,39.5
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2021_22,male,25,45.5
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2020_21,male,23,43.4
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2020_21,female,50,43.1
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2019_20,female,27,51.9
+56,Creighton University,Creighton University School of Dentistry,1905,Private,Omaha,68102,Nebraska,NE,Midwest,West North Central,US,2017_18,female,29,33.7
+58,University of Nebraska Medical Center,University of Nebraska Medical Center College of Dentistry,1899,Public,Lincoln,68583,Nebraska,NE,Midwest,West North Central,US,2017_18,male,18,35.3
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2017_18,male,41,46.6
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2018_19,female,46,50
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2019_20,female,43,46.7
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2020_21,male,54,56.3
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2020_21,female,42,43.8
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2019_20,male,49,53.3
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2018_19,male,46,50
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2021_22,male,46,50
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2021_22,female,46,50
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2017_18,female,47,53.4
+60,Rutgers School of Dental Medicine,Rutgers School of Dental Medicine,1956,Public,Newark,07103,New Jersey,NJ,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2019_20,female,30,36.6
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2021_22,oth,0,0
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2020_21,female,28,32.9
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2017_18,female,33,40.7
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2018_19,female,36,43.9
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2021_22,female,40,48.8
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2017_18,male,48,59.3
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2019_20,male,52,63.4
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2020_21,oth,0,0
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2018_19,male,46,56.1
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2020_21,male,57,67.09999999999999
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2021_22,male,42,51.2
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2017_18,oth,0,0
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2019_20,oth,0,0
+59,"University of Nevada, Las Vegas",University of Nevada Las Vegas School of Dental Medicine,2002,Public,Las Vegas,89106,Nevada,NV,West,Mountain,US,2018_19,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2019_20,male,39,46.4
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2020_21,male,53,55.8
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2019_20,female,51,44.7
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2017_18,male,178,47
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2019_20,female,22,47.8
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2018_19,male,61,55
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2021_22,male,56,49.1
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2018_19,oth,1,.9
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2018_19,female,49,44.1
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2021_22,male,23,51.1
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2021_22,female,22,48.9
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2018_19,female,43,51.2
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2017_18,oth,1,2.3
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2019_20,female,45,53.6
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2021_22,female,58,50.9
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2020_21,male,29,33
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2021_22,male,149,39.4
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2020_21,female,46,40.7
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2020_21,female,30,63.8
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2018_19,male,41,44.1
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2020_21,male,17,36.2
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2020_21,male,164,44.8
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2017_18,female,32,40
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2017_18,female,43,47.8
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2021_22,female,61,64.2
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2018_19,male,18,39.1
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2017_18,female,24,54.5
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2019_20,female,231,60.3
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2019_20,oth,2,.5
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2021_22,female,229,60.6
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2017_18,male,47,52.2
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2017_18,female,200,52.8
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2018_19,female,52,55.9
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2018_19,male,182,47.9
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2020_21,female,59,67
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2018_19,female,198,52.1
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2020_21,female,42,44.2
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2019_20,female,49,52.7
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2019_20,male,24,52.2
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2019_20,male,150,39.2
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2019_20,male,63,55.3
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2021_22,female,46,54.8
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2021_22,male,38,45.2
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2018_19,female,28,60.9
+65,Stony Brook University,Stony Brook University School of Dental Medicine,1973,Public,Stony Brook,11794,New York,NY,Northeast,Middle Atlantic,US,2017_18,male,19,43.2
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2018_19,male,41,48.8
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2017_18,oth,1,.3
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2019_20,oth,1,1.1
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2021_22,male,34,35.8
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2017_18,male,48,60
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2020_21,male,67,59.3
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2017_18,male,67,60.4
+109,Touro College of Dental Medicine,Touro College of Dental Medicine at New York Medical College (NYMC),2015,Private,Hawthorne,10532,New York,NY,Northeast,Middle Atlantic,US,2017_18,female,44,39.6
+66,University at Buffalo,University at Buffalo School of Dental Medicine,1892,Public,Buffalo,14214,New York,NY,Northeast,Middle Atlantic,US,2019_20,male,43,46.2
+64,New York University,New York University College of Dentistry,1865,Private,New York,10010,New York,NY,Northeast,Middle Atlantic,US,2020_21,female,202,55.2
+62,Columbia University,Columbia University College of Dental Medicine,1852,Private,New York,10032,New York,NY,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2019_20,oth,0,0
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2021_22,oth,0,0
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2021_22,female,42,54.5
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2017_18,female,51,46.4
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2018_19,female,67,55.8
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2017_18,male,43,57.3
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2019_20,female,55,45.8
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2018_19,female,40,53.3
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2017_18,oth,0,0
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2019_20,male,64,53.3
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2017_18,oth,0,0
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2017_18,male,59,53.6
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2018_19,male,35,46.7
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2020_21,male,53,44.2
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2020_21,male,44,57.9
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2019_20,male,47,61
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2020_21,female,67,55.8
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2017_18,female,32,42.7
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2021_22,oth,0,0
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2020_21,oth,0,0
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2018_19,oth,0,0
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2018_19,male,53,44.2
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2020_21,oth,0,0
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2019_20,oth,1,.8
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2019_20,female,30,39
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2021_22,male,56,46.7
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2018_19,oth,0,0
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2020_21,female,32,42.1
+74,Case Western Reserve University,Case Western Reserve University School of Dental Medicine,1892,Private,Cleveland,44106,Ohio,OH,Midwest,East North Central,US,2021_22,male,35,45.5
+72,Ohio State University,The Ohio State University College of Dentistry,1890,Public,Columbus,43210,Ohio,OH,Midwest,East North Central,US,2021_22,female,64,53.3
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2019_20,oth,0,0
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2021_22,female,28,51.9
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2021_22,oth,0,0
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2020_21,male,34,65.40000000000001
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2020_21,oth,0,0
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2019_20,male,27,50.9
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2018_19,oth,0,0
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2019_20,female,26,49.1
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2020_21,female,18,34.6
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2017_18,male,26,48.1
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2018_19,female,19,35.2
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2017_18,female,28,51.9
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2021_22,male,26,48.1
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2018_19,male,35,64.8
+76,University of Oklahoma,University of Oklahoma College of Dentistry,1972,Public,Oklahoma City,73117,Oklahoma,OK,South,West South Central,US,2017_18,oth,0,0
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2021_22,female,33,44
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2019_20,male,43,55.1
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2020_21,female,35,47.3
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2018_19,female,36,47.4
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2021_22,oth,0,0
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2017_18,male,43,56.6
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2017_18,female,33,43.4
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2019_20,oth,0,0
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2021_22,male,42,56
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2020_21,male,39,52.7
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2018_19,oth,0,0
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2018_19,male,40,52.6
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2017_18,oth,0,0
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2019_20,female,35,44.9
+78,Oregon Health & Science University,Oregon Health & Science University School of Dentistry,1898,Public,Portland,97201,Oregon,OR,West,Pacific,US,2020_21,oth,0,0
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,female,74,52.1
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,male,50,37.3
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,male,31,38.8
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,male,73,51.4
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,male,80,57.6
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,male,50,36.8
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,female,45,56.3
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,male,33,41.3
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,female,95,69.90000000000001
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,male,35,43.8
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,oth,4,2.8
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,female,84,62.7
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,female,66,47.1
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,female,59,42.4
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,female,49,61.3
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,male,38,49.4
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,male,64,45.7
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,male,52,39.1
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,oth,0,0
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,female,39,50.6
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,male,64,45.1
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,oth,0,0
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,female,47,58.8
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,female,69,48.6
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,oth,0,0
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,male,73,51.8
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,oth,10,7.1
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,male,44,29.3
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,female,81,60.9
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2019_20,female,86,63.2
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,female,106,70.7
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,male,35,43.8
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2018_19,oth,0,0
+82,University of Pennsylvania,University of Pennsylvania School of Dental Medicine,1878,Private,Philadelphia,19104,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,male,41,30.1
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2017_18,oth,0,0
+84,University of Pittsburgh,University of Pittsburgh School of Dental Medicine,1896,Private/State-Related,Pittsburgh,15213,Pennsylvania,PA,Northeast,Middle Atlantic,US,2021_22,female,45,56.3
+80,Temple University,Temple University The Maurice H. Kornberg School of Dentistry,1863,Private/State-Related,Philadelphia,19140,Pennsylvania,PA,Northeast,Middle Atlantic,US,2020_21,female,68,48.2
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2018_19,female,25,61
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2021_22,oth,0,0
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2017_18,male,18,41.9
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2019_20,female,29,70.7
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2019_20,oth,0,0
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2018_19,oth,0,0
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2020_21,male,13,32.5
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2020_21,oth,0,0
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2021_22,female,35,79.5
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2017_18,oth,0,0
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2017_18,female,25,58.1
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2019_20,male,12,29.3
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2018_19,male,16,39
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2021_22,male,9,20.5
+99,University of Puerto Rico,University of Puerto Rico School of Dental Medicine,1957,Public,San Juan,00921,,PR,South,,US,2020_21,female,27,67.5
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2020_21,female,33,42.3
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2017_18,male,39,52
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2017_18,female,36,48
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2018_19,oth,0,0
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2017_18,oth,0,0
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2020_21,male,45,57.7
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2019_20,male,36,47.4
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2019_20,oth,0,0
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2019_20,female,40,52.6
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2021_22,oth,0,0
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2018_19,male,39,52
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2021_22,male,38,48.7
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2018_19,female,36,48
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2020_21,oth,0,0
+85,Medical University of South Carolina,Medical University of South Carolina James B. Edwards College of Dental Medicine,1967,Public,Charleston,29425,South Carolina,SC,South,South Atlantic,US,2021_22,female,40,51.3
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2018_19,male,24,39.3
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2017_18,male,27,44.3
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2020_21,male,16,26.2
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2021_22,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2017_18,female,34,55.7
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2019_20,male,61,62.9
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2021_22,female,45,42.5
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2020_21,male,45,45.9
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2019_20,female,36,37.1
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2017_18,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2019_20,female,37,59.7
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2017_18,male,59,60.2
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2019_20,oth,0,0
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2018_19,female,37,37.4
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2017_18,female,39,39.8
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2021_22,female,44,71
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2019_20,male,25,40.3
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2019_20,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2018_19,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2021_22,male,18,29
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2020_21,oth,0,0
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2020_21,female,53,54.1
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2021_22,male,61,57.5
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2018_19,female,37,60.7
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2020_21,oth,0,0
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2018_19,male,62,62.6
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2021_22,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2017_18,oth,0,0
+86,Meharry Medical College,Meharry Medical College School of Dentistry,1886,Private,Nashville,37208,Tennessee,TN,South,East South Central,US,2020_21,female,45,73.8
+88,University of Tennessee College of Dentistry,University of Tennessee College of Dentistry,1878,Public,Memphis,38103,Tennessee,TN,South,East South Central,US,2018_19,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2021_22,male,47,45.6
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2021_22,female,55,52.4
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2021_22,female,61,57.5
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2017_18,female,66,63.5
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2018_19,female,52,50
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2019_20,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2021_22,male,45,42.5
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2017_18,female,57,53.8
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2021_22,male,50,47.6
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2020_21,female,58,55.2
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2017_18,oth,0,0
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2017_18,male,49,46.2
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2017_18,male,38,36.5
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2018_19,female,58,55.2
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2021_22,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2018_19,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2017_18,female,62,61.4
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2019_20,male,46,43.8
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2019_20,female,62,58.5
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2019_20,oth,0,0
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2019_20,male,44,41.5
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2020_21,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2021_22,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2018_19,male,52,50
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2018_19,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2019_20,female,59,55.7
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2021_22,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2017_18,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2018_19,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2018_19,female,60,57.1
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2018_19,male,47,44.8
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2020_21,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2018_19,male,45,42.9
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2020_21,male,53,50
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2019_20,male,47,44.3
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2017_18,male,39,38.6
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2019_20,oth,0,0
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2021_22,female,56,54.4
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2019_20,female,59,56.2
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2020_21,oth,0,0
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2020_21,female,53,50
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2020_21,male,40,39.6
+93,UT Health San Antonio,"UT Health San Antonio, School of Dentistry",1970,Public,San Antonio,78229,Texas,TX,South,West South Central,US,2020_21,female,61,60.4
+90,Texas A&M University,Texas A&M University College of Dentistry,1905,Public,Dallas,75246,Texas,TX,South,West South Central,US,2017_18,oth,0,0
+92,University of Texas at Houston,The University of Texas School of Dentistry at Houston,1905,Public,Houston,77054,Texas,TX,South,West South Central,US,2020_21,male,47,44.8
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2018_19,oth,0,0
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2019_20,oth,0,0
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2018_19,female,22,44.9
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2020_21,female,26,51
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2017_18,female,10,20
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2020_21,female,52,51
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2021_22,female,51,51
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2017_18,male,40,80
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2020_21,male,25,49
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2020_21,oth,0,0
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2017_18,oth,0,0
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2020_21,male,50,49
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2021_22,female,12,24
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2021_22,oth,0,0
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2018_19,male,27,55.1
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2021_22,male,38,76
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2018_19,oth,0,0
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2019_20,female,47,47
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2019_20,male,53,53
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2018_19,male,54,54
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2018_19,female,46,46
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2017_18,male,48,57.1
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2019_20,female,10,20
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2017_18,oth,0,0
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2020_21,oth,0,0
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2021_22,oth,0,0
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2019_20,oth,0,0
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2021_22,male,49,49
+108,University of Utah,University of Utah School of Dentistry,2013,Public,Salt Lake City,84108,Utah,UT,West,Mountain,US,2019_20,male,40,80
+104,Roseman University of Health Sciences,Roseman University of Health Sciences College of Dental Medicine,2011,Private,South Jordan,84095,Utah,UT,West,Mountain,US,2017_18,female,36,42.9
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2019_20,male,48,47.5
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2018_19,female,43,44.8
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2021_22,male,46,47.9
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2020_21,female,49,51
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2021_22,oth,0,0
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2019_20,oth,0,0
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2018_19,oth,0,0
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2017_18,oth,0,0
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2019_20,female,53,52.5
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2020_21,male,47,49
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2020_21,oth,0,0
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2017_18,male,46,46.9
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2018_19,male,53,55.2
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2017_18,female,52,53.1
+94,Virginia Commonwealth University,Virginia Commonwealth University School of Dentistry,1893,Public,Richmond,23298,Virginia,VA,South,South Atlantic,US,2021_22,female,50,52.1
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2021_22,male,36,57.1
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2018_19,female,28,44.4
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2021_22,female,27,42.9
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2020_21,oth,0,0
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2020_21,male,27,42.9
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2019_20,female,30,49.2
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2020_21,female,36,57.1
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2021_22,oth,0,0
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2017_18,male,33,52.4
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2018_19,oth,0,0
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2018_19,male,35,55.6
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2019_20,male,30,49.2
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2017_18,female,30,47.6
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2017_18,oth,0,0
+96,University of Washington,University of Washington School of Dentistry,1945,Public,Seattle,98195,Washington,WA,West,Pacific,US,2019_20,oth,1,1.6
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2019_20,oth,0,0
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2018_19,oth,0,0
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2021_22,female,54,54
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2021_22,male,46,46
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2020_21,male,51,47.7
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2019_20,female,53,53
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2018_19,male,45,45
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2019_20,male,47,47
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2020_21,female,56,52.3
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2017_18,oth,0,0
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2017_18,female,49,47.6
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2017_18,male,54,52.4
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2018_19,female,55,55
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2020_21,oth,0,0
+98,Marquette University,Marquette University School of Dentistry,1894,Private/State-Related,Milwaukee,53233,Wisconsin,WI,Midwest,East North Central,US,2021_22,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2020_21,female,25,52.1
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2018_19,male,24,50
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2019_20,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2017_18,female,21,42
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2021_22,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2021_22,male,22,44.9
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2020_21,male,23,47.9
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2017_18,male,29,58
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2019_20,male,26,55.3
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2018_19,female,24,50
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2017_18,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2019_20,female,21,44.7
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2018_19,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2020_21,oth,0,0
+97,West Virginia University,West Virginia University School of Dentistry,1957,Public,Morgantown,26505,West Virginia,WV,South,South Atlantic,US,2021_22,female,27,55.1

@@ -45,8 +45,8 @@ else if "`user'" == "XX" {
 	* data directory  
 	global  raw	 			"$dir/01_raw"
 	global 	dta				"$dir/03_dta"
-	global 	out				"$dir/04_output"
-	global 	do 				"$dir/02_result"
+	global 	out				"$dir/04_outputs"
+	global 	do 				"$dir/02_do"
 
 	****************************************************************************
 
